@@ -38,9 +38,9 @@ The goal is to let users navigate comfortably from their wrist without constantl
 The Android companion app runs in the background, listens for Google Maps navigation notifications, and transmits navigation instructions to the smartwatch.
 
 <p align="center">
-  <img src="screenshots/phone-1.png" width="260"/>
+  <img src="./screenshots/1.jpg" alt="Android App Home" width="280"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/phone-2.png" width="260"/>
+  <img src="./screenshots/2.jpg" alt="Android App Settings" width="280"/>
 </p>
 
 ---
@@ -50,11 +50,11 @@ The Android companion app runs in the background, listens for Google Maps naviga
 The smartwatch app displays clear, glanceable navigation instructions while you're walking, cycling, or driving.
 
 <p align="center">
-  <img src="screenshots/watch-1.png" width="145"/>
+  <img src="./screenshots/3.png" alt="Navigation Screen" width="140"/>
   &nbsp;&nbsp;
-  <img src="screenshots/watch-2.png" width="145"/>
+  <img src="./screenshots/4.png" alt="Navigation Screen" width="140"/>
   &nbsp;&nbsp;
-  <img src="screenshots/watch-3.png" width="145"/>
+  <img src="./screenshots/5.png" alt="Navigation Screen" width="140"/>
 </p>
 
 ### Smartwatch App Menu
