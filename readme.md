@@ -57,12 +57,6 @@ The smartwatch app displays clear, glanceable navigation instructions while you'
   <img src="./screenshots/5.png" alt="Navigation Screen" width="140"/>
 </p>
 
-### Smartwatch App Menu
-
-<p align="center">
-  <img src="screenshots/watch-menu.png" width="220"/>
-</p>
-
 ---
 
 # How It Works
