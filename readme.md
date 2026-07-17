@@ -71,6 +71,14 @@ The smartwatch app displays clear, glanceable navigation instructions while you'
 
 ---
 
+# Download
+
+The latest release, including both the Android companion app (`.apk`) and the ZeppOS smartwatch app (`.zab`), can be downloaded from the Releases page.
+
+➡️ **https://github.com/Barath702/Nark/releases/tag/v1.0**
+
+---
+
 # Compatibility
 
 ## Tested Devices
