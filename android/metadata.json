@@ -1,0 +1,6 @@
+{
+  "name": "Nark",
+  "description": "A Google Maps notification turn-by-turn instruction listener with live feed and log persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
